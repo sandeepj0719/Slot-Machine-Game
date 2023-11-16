@@ -1,0 +1,2 @@
+# Slot Machine Game
+ A slot machine game is a popular form of gambling entertainment that has transitioned from physical machines to digital platforms. The game typically consists of a machine with reels that spin when a button is pushed or a lever is pulled. Each reel contains various symbols, and the goal is to align these symbols in specific combinations to win prizes. I have created this using JavaScript
